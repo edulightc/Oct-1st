@@ -17,8 +17,14 @@ This challenge is Edulight Consulting program to celebrate open source. The chal
 
 | Name | [github username](https://github.com/username) | email@email.com
 
+### Design
+
+The projects design are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
+
 ### Fonts Used
 
 https://fonts.google.com/specimen/Inter
 
 ### A Learn Station Project
+
+Project's live site is @ [Live Site](https://efecollins.github.io/hacktoberfest)

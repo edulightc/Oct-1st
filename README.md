@@ -20,7 +20,7 @@ This challenge is Edulight Consulting program to celebrate open source. The chal
 
 ### Design
 
-The projects design are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
+The projects designs and viewports to work with are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
 
 ### Fonts Used
 

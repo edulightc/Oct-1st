@@ -1,33 +1,31 @@
 
-# Welcome to Codewell! 👋
+# Welcome to Edulight Consulting's hacktoberfest! 👋
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+This challenge is Edulight Consulting program to celebrate open source. The challenge was taken from [Codewell](https://codewell.cc) and we wish all new contributors a happy HACKTOBERFEST.
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+### This guide is going to walk you through successful contributions to the project.
 
-### I've completed the challenge, now what?
+- The first thing to do is forking the repository.
+- Clone the forked repository locally.
+- Create a new branch to work in.
+- Make no changes to file or folder structure.
+- Usage of Sass is allowed but do not commit the sass files.
+- Use no framweork or library.
+- Use properly defined classes, functions, etc. Names of classes like p for paragraph are not allowed.
+- Create a javascript file if need arises with explanation for creation as the commit message for the creation of file.
+- Submit your pull requests and wait for approval. Good luck!
+- Finally, include your name, github username, and email address in CONTRIBUTORS.md according to template below
 
-We recommend using one of these two websites to deploy your projects
+| Name | [github username](https://github.com/username) | email@email.com
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+### Design
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
-
-
-### Submit your solution to Codewell
-
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+The projects design are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
 
 ### Fonts Used
 
 https://fonts.google.com/specimen/Inter
 
-### A Learn Station project
-Alarape Habeeb olanrewaju
+### A Learn Station Project
 
+Project's live site is @ [Live Site](https://efecollins.github.io/hacktoberfest)

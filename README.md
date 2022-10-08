@@ -10,6 +10,7 @@ This challenge is Edulight Consulting program to celebrate open source. The chal
 - Create a new branch to work in.
 - Make no changes to file or folder structure.
 - Usage of Sass is allowed but do not commit the sass files.
+- Use no framweork or library.
 - Use properly defined classes, functions, etc. Names of classes like p for paragraph are not allowed.
 - Create a javascript file if need arises with explanation for creation as the commit message for the creation of file.
 - Submit your pull requests and wait for approval. Good luck!

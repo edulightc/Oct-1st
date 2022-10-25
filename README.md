@@ -16,11 +16,11 @@ This challenge is Edulight Consulting program to celebrate open source. The chal
 - Submit your pull requests and wait for approval. Good luck!
 - Finally, include your name, github username, and email address in CONTRIBUTORS.md according to template below
 
-| Name | [github username](https://github.com/username) | email@email.com
+| Officialsammy | [Officialsammy2701](https://github.com/Officialsammy2701) | helloayo79@gmail.com
 
 ### Design
 
-The projects design are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
+The projects designs and viewports to work with are at this location - [Design](https://drive.google.com/drive/folders/1a-8A0LT_XtJY-tM4EZHVxFXCHcJwEscW?usp=sharing)
 
 ### Fonts Used
 
